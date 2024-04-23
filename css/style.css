@@ -1,0 +1,22 @@
+ body{
+    background-color: gray;
+ }
+
+ main{
+    background-color: azure;
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+ }
+
+ input{
+    text-align: center;
+ }
+
+ select{
+    margin-bottom: 25px;
+ }
